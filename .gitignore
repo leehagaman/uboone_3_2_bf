@@ -1,3 +1,5 @@
 *.root
 BNBNumi_TOsc_input_numifluxpatched/
 .DS_Store
+*.pkl
+
